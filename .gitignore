@@ -1,0 +1,4 @@
+# Pregenerated backup files
+/PCB/MotorBoard/MotorBoard-backups
+/PCB/MainBoard/MainBoard-backups
+/PCB/BatteryBoard/BatteryBoard-backups
