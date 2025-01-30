@@ -1222,6 +1222,94 @@
 		)
 	)
 	(sheet
+		(at 125.73 50.8)
+		(size 45.72 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "080fd4b0-d484-4a9f-b530-51ac3d24ee6a")
+		(property "Sheetname" "IMU"
+			(at 125.73 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "imu.kicad_sch"
+			(at 125.73 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDA" input
+			(at 125.73 55.88 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9fbeb86c-b225-4174-ae4f-9a9ba8a4f98c")
+		)
+		(pin "SCL" input
+			(at 125.73 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1b825829-b229-41c4-b3ad-d6150848cd4f")
+		)
+		(pin "INT1" input
+			(at 125.73 63.5 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f83d5505-ebf5-4f55-b175-cbbd217e503f")
+		)
+		(pin "AP_AD0" input
+			(at 125.73 73.66 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cf52553c-0185-4570-939d-c50560ab8c06")
+		)
+		(pin "INT2" input
+			(at 125.73 66.04 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0aadacae-13f7-4174-92f5-57e172b73560")
+		)
+		(instances
+			(project "MainBoard"
+				(path "/4b463b93-bd96-4cf6-bfe2-9d8869b16347"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 66.04 50.8)
 		(size 43.18 35.56)
 		(fields_autoplaced yes)
