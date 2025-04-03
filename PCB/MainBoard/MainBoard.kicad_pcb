@@ -3206,6 +3206,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD9_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-WROOM-32U.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0201_0603Metric"
 		(layer "F.Cu")
@@ -4740,6 +4751,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Connector_JST:JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical"
 		(layer "F.Cu")
@@ -5398,6 +5420,17 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_rect
+		(start 69 65)
+		(end 135 109)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "0c167291-13a1-4f4d-80ad-c72bf7421c5e")
 	)
 	(embedded_fonts no)
 )
