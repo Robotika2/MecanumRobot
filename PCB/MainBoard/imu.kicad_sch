@@ -975,7 +975,7 @@
 		(uuid "153d2ef1-1b55-46d4-97b8-d117e6f4ee63")
 	)
 	(hierarchical_label "INT2"
-		(shape input)
+		(shape output)
 		(at 121.92 99.06 0)
 		(effects
 			(font
@@ -986,7 +986,7 @@
 		(uuid "29a407db-7222-41d6-ac96-8a1221e22ad1")
 	)
 	(hierarchical_label "INT1"
-		(shape input)
+		(shape output)
 		(at 66.04 101.6 180)
 		(effects
 			(font

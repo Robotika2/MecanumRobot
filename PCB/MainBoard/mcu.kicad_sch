@@ -1155,6 +1155,28 @@
 		)
 		(uuid "27dd5b67-3178-48f7-bdf8-21b3717b25cd")
 	)
+	(hierarchical_label "EN_LIDAR_MOT"
+		(shape output)
+		(at 105.41 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2d7081c8-4356-4cf7-a2e3-73adb7d109a9")
+	)
+	(hierarchical_label "INT1"
+		(shape input)
+		(at 105.41 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3f4f2bbe-b65e-44c2-b4ce-e4432aec3c0b")
+	)
 	(hierarchical_label "USB_D-"
 		(shape input)
 		(at 105.41 59.69 0)
@@ -1165,6 +1187,39 @@
 			(justify left)
 		)
 		(uuid "503edc55-e0cd-47b4-9ee3-0a188b0e95e9")
+	)
+	(hierarchical_label "SDA"
+		(shape output)
+		(at 105.41 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7fa63478-4fa3-4211-85b6-cdb370277405")
+	)
+	(hierarchical_label "INT2"
+		(shape input)
+		(at 105.41 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "84d23ba8-0b46-40d7-936a-caa9d7b3c67d")
+	)
+	(hierarchical_label "SCL"
+		(shape output)
+		(at 105.41 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a92d56a1-b40c-469d-adac-80e6d83174e9")
 	)
 	(symbol
 		(lib_id "power:GND")
